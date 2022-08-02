@@ -1,0 +1,28 @@
+{
+  "name": "replace-moment",
+  "version": "1.0.0",
+  "description": "rapid replace or replace-all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihugang/replace-moment.git"
+  },
+  "keywords": [
+    "kmp",
+    "replace",
+    "replace-all",
+    "string"
+  ],
+  "author": "lihugang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lihugang/replace-moment/issues"
+  },
+  "homepage": "https://github.com/lihugang/replace-moment#readme",
+  "dependencies": {
+    "kmp": "^0.0.3"
+  }
+}
